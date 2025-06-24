@@ -50,7 +50,7 @@ acp_backend/
 ### Running the Application
 Update this section with the actual run command, e.g.,
 ```bash
-python system_files/api.py
+python manage.py runserver
 ```
 
 ## API Overview
@@ -61,7 +61,4 @@ python system_files/api.py
 Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
 
 ## License
-Specify your license here (e.g., MIT, Apache 2.0, etc.).
 
----
-Feel free to update this README with more specific details as your project evolves.
