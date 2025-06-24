@@ -48,7 +48,6 @@ acp_backend/
    ```
 
 ### Running the Application
-Update this section with the actual run command, e.g.,
 ```bash
 python manage.py runserver
 ```
